@@ -1,0 +1,11 @@
+name = "v2less"
+main = "_worker.js"
+compatibility_date = "2023-05-26"
+# node_compat = true
+workers_dev = true
+
+[vars]
+# PROXYIP = "211.230.110.231:50008"
+UUID = "e2994de2-d9bb-4392-8093-45a8e09223b2"
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
